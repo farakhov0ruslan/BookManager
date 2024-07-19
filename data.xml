@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAuthor xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/CHWLibrary">
+  <Author>
+    <authorId>c7f44fa0-c233-49c1-864c-48324d385372</authorId>
+    <name>Robert Rodriguez</name>
+    <earnings>4233.540000000001</earnings>
+    <books>
+      <Book>
+        <bookId>daebc9f9-b69c-4419-9ae8-37e88635f1a9</bookId>
+        <earnings>685.96</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1961</publicationYear>
+        <title>Exclusive non-volatile access</title>
+      </Book>
+      <Book>
+        <bookId>01fe3f0a-9a47-4262-a4b3-b0c9ca37d85f</bookId>
+        <earnings>746.57</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1827</publicationYear>
+        <title>Managed composite contingency</title>
+      </Book>
+      <Book>
+        <bookId>3f134bd1-1f8b-4114-86d9-d2185ea94f0e</bookId>
+        <earnings>504</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1814</publicationYear>
+        <title>Mandatory composite Internet solution</title>
+      </Book>
+      <Book>
+        <bookId>001b381f-acb5-4eb1-8b66-9fcdadc4561b</bookId>
+        <earnings>1006.98</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1910</publicationYear>
+        <title>Streamlined multi-tasking pricing structure</title>
+      </Book>
+      <Book>
+        <bookId>e694ec92-4dff-4678-97f5-abee22fe86e4</bookId>
+        <earnings>775.94</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1885</publicationYear>
+        <title>User-friendly 5thgeneration toolset</title>
+      </Book>
+      <Book>
+        <bookId>ce8efe67-c4f8-4df2-9afc-974bada40589</bookId>
+        <earnings>313.07</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Profound contextually-based Graphic Interface</title>
+      </Book>
+      <Book>
+        <bookId>d6b1eac9-8d84-4991-b182-9cc7d8bb8242</bookId>
+        <earnings>201.02</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1943</publicationYear>
+        <title>Distributed neutral model</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>683aa3cf-9411-4d04-b5c9-2f201892e11b</authorId>
+    <name>Alexander Weber</name>
+    <earnings>6213.719999999999</earnings>
+    <books>
+      <Book>
+        <bookId>71a965f0-4d4e-4f47-8dba-991a38e6c623</bookId>
+        <earnings>690.68</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1835</publicationYear>
+        <title>Stand-alone global moratorium</title>
+      </Book>
+      <Book>
+        <bookId>01fe3f0a-9a47-4262-a4b3-b0c9ca37d85f</bookId>
+        <earnings>746.57</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1827</publicationYear>
+        <title>Managed composite contingency</title>
+      </Book>
+      <Book>
+        <bookId>22b37ac9-618e-4e95-b17d-c33ae99ef01d</bookId>
+        <earnings>241.37</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1839</publicationYear>
+        <title>Innovative 6thgeneration task-force</title>
+      </Book>
+      <Book>
+        <bookId>659cc3bd-94a0-42cd-a316-026d579a1cc0</bookId>
+        <earnings>954.12</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1850</publicationYear>
+        <title>Cross-platform mission-critical software</title>
+      </Book>
+      <Book>
+        <bookId>ea4e4802-6880-4301-a4e9-920efa845bbb</bookId>
+        <earnings>179.22</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>2005</publicationYear>
+        <title>Progressive responsive database</title>
+      </Book>
+      <Book>
+        <bookId>5cf106c7-e4cc-44eb-a487-e6d47e038292</bookId>
+        <earnings>322.89</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1918</publicationYear>
+        <title>Focused intangible parallelism</title>
+      </Book>
+      <Book>
+        <bookId>f2f590c5-81d4-46e4-884e-c9703ead8e33</bookId>
+        <earnings>431.29</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1808</publicationYear>
+        <title>Centralized static software</title>
+      </Book>
+      <Book>
+        <bookId>3f134bd1-1f8b-4114-86d9-d2185ea94f0e</bookId>
+        <earnings>504</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1814</publicationYear>
+        <title>Mandatory composite Internet solution</title>
+      </Book>
+      <Book>
+        <bookId>79165eb6-ab13-4d25-bf9f-e8c671d2ff60</bookId>
+        <earnings>336.4</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1841</publicationYear>
+        <title>Re-contextualized client-driven artificial intelligence</title>
+      </Book>
+      <Book>
+        <bookId>daebc9f9-b69c-4419-9ae8-37e88635f1a9</bookId>
+        <earnings>685.96</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1961</publicationYear>
+        <title>Exclusive non-volatile access</title>
+      </Book>
+      <Book>
+        <bookId>b922ccad-153d-4b87-ad67-0086ba8ea888</bookId>
+        <earnings>1121.22</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1935</publicationYear>
+        <title>Centralized reciprocal Local Area Network</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>820108b1-f717-4a1b-831e-76898252c0d5</authorId>
+    <name>Terry Kim</name>
+    <earnings>5151.73</earnings>
+    <books>
+      <Book>
+        <bookId>d13090e1-1633-4b4b-a7a0-bc5caf2dba55</bookId>
+        <earnings>343.83</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Expanded executive system engine</title>
+      </Book>
+      <Book>
+        <bookId>e694ec92-4dff-4678-97f5-abee22fe86e4</bookId>
+        <earnings>775.94</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1885</publicationYear>
+        <title>User-friendly 5thgeneration toolset</title>
+      </Book>
+      <Book>
+        <bookId>e5d185f3-f0bd-4c08-8c47-22501306762f</bookId>
+        <earnings>596.08</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1843</publicationYear>
+        <title>Customizable national synergy</title>
+      </Book>
+      <Book>
+        <bookId>cf98237a-b25e-465f-b689-b3d798279cd2</bookId>
+        <earnings>1158.15</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1828</publicationYear>
+        <title>Managed fresh-thinking attitude</title>
+      </Book>
+      <Book>
+        <bookId>001b381f-acb5-4eb1-8b66-9fcdadc4561b</bookId>
+        <earnings>1006.98</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1910</publicationYear>
+        <title>Streamlined multi-tasking pricing structure</title>
+      </Book>
+      <Book>
+        <bookId>ce8efe67-c4f8-4df2-9afc-974bada40589</bookId>
+        <earnings>313.07</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Profound contextually-based Graphic Interface</title>
+      </Book>
+      <Book>
+        <bookId>01fe3f0a-9a47-4262-a4b3-b0c9ca37d85f</bookId>
+        <earnings>746.57</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1827</publicationYear>
+        <title>Managed composite contingency</title>
+      </Book>
+      <Book>
+        <bookId>39c92cac-df07-4660-8e35-94e25b03e27c</bookId>
+        <earnings>211.11</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1865</publicationYear>
+        <title>Profound multimedia software</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>11453811-c7e9-4add-8b7a-c4e6dbd18f1c</authorId>
+    <name>Jeffrey Hill</name>
+    <earnings>3751.54</earnings>
+    <books>
+      <Book>
+        <bookId>f2f590c5-81d4-46e4-884e-c9703ead8e33</bookId>
+        <earnings>431.29</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1808</publicationYear>
+        <title>Centralized static software</title>
+      </Book>
+      <Book>
+        <bookId>b922ccad-153d-4b87-ad67-0086ba8ea888</bookId>
+        <earnings>1121.22</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1935</publicationYear>
+        <title>Centralized reciprocal Local Area Network</title>
+      </Book>
+      <Book>
+        <bookId>d685c979-12b6-4329-94c2-dfc13eb9e9b6</bookId>
+        <earnings>618.74</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1895</publicationYear>
+        <title>Exclusive mission-critical productivity</title>
+      </Book>
+      <Book>
+        <bookId>3f134bd1-1f8b-4114-86d9-d2185ea94f0e</bookId>
+        <earnings>504</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1814</publicationYear>
+        <title>Mandatory composite Internet solution</title>
+      </Book>
+      <Book>
+        <bookId>ea4e4802-6880-4301-a4e9-920efa845bbb</bookId>
+        <earnings>179.22</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>2005</publicationYear>
+        <title>Progressive responsive database</title>
+      </Book>
+      <Book>
+        <bookId>39c92cac-df07-4660-8e35-94e25b03e27c</bookId>
+        <earnings>211.11</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1865</publicationYear>
+        <title>Profound multimedia software</title>
+      </Book>
+      <Book>
+        <bookId>daebc9f9-b69c-4419-9ae8-37e88635f1a9</bookId>
+        <earnings>685.96</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1961</publicationYear>
+        <title>Exclusive non-volatile access</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>73845417-6b6c-4946-b083-706da915a205</authorId>
+    <name>James Simmons</name>
+    <earnings>5601.950000000001</earnings>
+    <books>
+      <Book>
+        <bookId>3f134bd1-1f8b-4114-86d9-d2185ea94f0e</bookId>
+        <earnings>504</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1814</publicationYear>
+        <title>Mandatory composite Internet solution</title>
+      </Book>
+      <Book>
+        <bookId>659cc3bd-94a0-42cd-a316-026d579a1cc0</bookId>
+        <earnings>954.12</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1850</publicationYear>
+        <title>Cross-platform mission-critical software</title>
+      </Book>
+      <Book>
+        <bookId>b922ccad-153d-4b87-ad67-0086ba8ea888</bookId>
+        <earnings>1121.22</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1935</publicationYear>
+        <title>Centralized reciprocal Local Area Network</title>
+      </Book>
+      <Book>
+        <bookId>001b381f-acb5-4eb1-8b66-9fcdadc4561b</bookId>
+        <earnings>1006.98</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1910</publicationYear>
+        <title>Streamlined multi-tasking pricing structure</title>
+      </Book>
+      <Book>
+        <bookId>cf98237a-b25e-465f-b689-b3d798279cd2</bookId>
+        <earnings>1158.15</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1828</publicationYear>
+        <title>Managed fresh-thinking attitude</title>
+      </Book>
+      <Book>
+        <bookId>d6b1eac9-8d84-4991-b182-9cc7d8bb8242</bookId>
+        <earnings>201.02</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1943</publicationYear>
+        <title>Distributed neutral model</title>
+      </Book>
+      <Book>
+        <bookId>22b37ac9-618e-4e95-b17d-c33ae99ef01d</bookId>
+        <earnings>241.37</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1839</publicationYear>
+        <title>Innovative 6thgeneration task-force</title>
+      </Book>
+      <Book>
+        <bookId>510ee357-f41e-4f1b-8d2d-0cb689d1a4ed</bookId>
+        <earnings>415.09</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1858</publicationYear>
+        <title>Multi-lateral empowering benchmark</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>92349320-3767-4cae-a1e1-d07543d488e4</authorId>
+    <name>Brittany Kelly</name>
+    <earnings>5382.62</earnings>
+    <books>
+      <Book>
+        <bookId>71a965f0-4d4e-4f47-8dba-991a38e6c623</bookId>
+        <earnings>690.68</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1835</publicationYear>
+        <title>Stand-alone global moratorium</title>
+      </Book>
+      <Book>
+        <bookId>cf98237a-b25e-465f-b689-b3d798279cd2</bookId>
+        <earnings>1158.15</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1828</publicationYear>
+        <title>Managed fresh-thinking attitude</title>
+      </Book>
+      <Book>
+        <bookId>e5d185f3-f0bd-4c08-8c47-22501306762f</bookId>
+        <earnings>596.08</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1843</publicationYear>
+        <title>Customizable national synergy</title>
+      </Book>
+      <Book>
+        <bookId>15ef00a8-ea65-449c-acec-f60a00204f3e</bookId>
+        <earnings>529.47</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1905</publicationYear>
+        <title>Function-based coherent standardization</title>
+      </Book>
+      <Book>
+        <bookId>22b37ac9-618e-4e95-b17d-c33ae99ef01d</bookId>
+        <earnings>241.37</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1839</publicationYear>
+        <title>Innovative 6thgeneration task-force</title>
+      </Book>
+      <Book>
+        <bookId>82e89282-7cfc-4611-a7fd-48452194d53f</bookId>
+        <earnings>1219.28</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1995</publicationYear>
+        <title>Distributed neutral Graphical User Interface</title>
+      </Book>
+      <Book>
+        <bookId>d6b1eac9-8d84-4991-b182-9cc7d8bb8242</bookId>
+        <earnings>201.02</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1943</publicationYear>
+        <title>Distributed neutral model</title>
+      </Book>
+      <Book>
+        <bookId>01fe3f0a-9a47-4262-a4b3-b0c9ca37d85f</bookId>
+        <earnings>746.57</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1827</publicationYear>
+        <title>Managed composite contingency</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>ef21df2d-9db2-4483-a4d4-0754514c9a1a</authorId>
+    <name>Angela Simmons</name>
+    <earnings>3350.44</earnings>
+    <books>
+      <Book>
+        <bookId>d13090e1-1633-4b4b-a7a0-bc5caf2dba55</bookId>
+        <earnings>343.83</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Expanded executive system engine</title>
+      </Book>
+      <Book>
+        <bookId>e694ec92-4dff-4678-97f5-abee22fe86e4</bookId>
+        <earnings>775.94</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1885</publicationYear>
+        <title>User-friendly 5thgeneration toolset</title>
+      </Book>
+      <Book>
+        <bookId>510ee357-f41e-4f1b-8d2d-0cb689d1a4ed</bookId>
+        <earnings>415.09</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1858</publicationYear>
+        <title>Multi-lateral empowering benchmark</title>
+      </Book>
+      <Book>
+        <bookId>d685c979-12b6-4329-94c2-dfc13eb9e9b6</bookId>
+        <earnings>618.74</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1895</publicationYear>
+        <title>Exclusive mission-critical productivity</title>
+      </Book>
+      <Book>
+        <bookId>22b37ac9-618e-4e95-b17d-c33ae99ef01d</bookId>
+        <earnings>241.37</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1839</publicationYear>
+        <title>Innovative 6thgeneration task-force</title>
+      </Book>
+      <Book>
+        <bookId>f2f590c5-81d4-46e4-884e-c9703ead8e33</bookId>
+        <earnings>431.29</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1808</publicationYear>
+        <title>Centralized static software</title>
+      </Book>
+      <Book>
+        <bookId>39c92cac-df07-4660-8e35-94e25b03e27c</bookId>
+        <earnings>211.11</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1865</publicationYear>
+        <title>Profound multimedia software</title>
+      </Book>
+      <Book>
+        <bookId>ce8efe67-c4f8-4df2-9afc-974bada40589</bookId>
+        <earnings>313.07</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Profound contextually-based Graphic Interface</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>bac8a320-260f-473e-8bc4-b2eae42994af</authorId>
+    <name>Nicole Guerrero</name>
+    <earnings>4951.73</earnings>
+    <books>
+      <Book>
+        <bookId>659cc3bd-94a0-42cd-a316-026d579a1cc0</bookId>
+        <earnings>954.12</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1850</publicationYear>
+        <title>Cross-platform mission-critical software</title>
+      </Book>
+      <Book>
+        <bookId>97afa2a6-4b3e-4fd4-b581-68fdc4f02bb3</bookId>
+        <earnings>349.77</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>2001</publicationYear>
+        <title>Multi-tiered homogeneous instruction set</title>
+      </Book>
+      <Book>
+        <bookId>bd744a55-c99c-4044-b337-523ff7a20b79</bookId>
+        <earnings>422.55</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1813</publicationYear>
+        <title>Centralized zero administration focus group</title>
+      </Book>
+      <Book>
+        <bookId>82e89282-7cfc-4611-a7fd-48452194d53f</bookId>
+        <earnings>1219.28</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1995</publicationYear>
+        <title>Distributed neutral Graphical User Interface</title>
+      </Book>
+      <Book>
+        <bookId>001b381f-acb5-4eb1-8b66-9fcdadc4561b</bookId>
+        <earnings>1006.98</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1910</publicationYear>
+        <title>Streamlined multi-tasking pricing structure</title>
+      </Book>
+      <Book>
+        <bookId>daebc9f9-b69c-4419-9ae8-37e88635f1a9</bookId>
+        <earnings>685.96</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1961</publicationYear>
+        <title>Exclusive non-volatile access</title>
+      </Book>
+      <Book>
+        <bookId>ce8efe67-c4f8-4df2-9afc-974bada40589</bookId>
+        <earnings>313.07</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Profound contextually-based Graphic Interface</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>432e2f00-c3da-4907-bd21-d7d4933a0aab</authorId>
+    <name>John Fernandez</name>
+    <earnings>6288.73</earnings>
+    <books>
+      <Book>
+        <bookId>d6b1eac9-8d84-4991-b182-9cc7d8bb8242</bookId>
+        <earnings>201.02</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1943</publicationYear>
+        <title>Distributed neutral model</title>
+      </Book>
+      <Book>
+        <bookId>5cf106c7-e4cc-44eb-a487-e6d47e038292</bookId>
+        <earnings>322.89</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1918</publicationYear>
+        <title>Focused intangible parallelism</title>
+      </Book>
+      <Book>
+        <bookId>d13090e1-1633-4b4b-a7a0-bc5caf2dba55</bookId>
+        <earnings>343.83</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Expanded executive system engine</title>
+      </Book>
+      <Book>
+        <bookId>3f134bd1-1f8b-4114-86d9-d2185ea94f0e</bookId>
+        <earnings>504</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1814</publicationYear>
+        <title>Mandatory composite Internet solution</title>
+      </Book>
+      <Book>
+        <bookId>f2f590c5-81d4-46e4-884e-c9703ead8e33</bookId>
+        <earnings>431.29</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1808</publicationYear>
+        <title>Centralized static software</title>
+      </Book>
+      <Book>
+        <bookId>b922ccad-153d-4b87-ad67-0086ba8ea888</bookId>
+        <earnings>1121.22</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1935</publicationYear>
+        <title>Centralized reciprocal Local Area Network</title>
+      </Book>
+      <Book>
+        <bookId>cf98237a-b25e-465f-b689-b3d798279cd2</bookId>
+        <earnings>1158.15</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1828</publicationYear>
+        <title>Managed fresh-thinking attitude</title>
+      </Book>
+      <Book>
+        <bookId>82e89282-7cfc-4611-a7fd-48452194d53f</bookId>
+        <earnings>1219.28</earnings>
+        <genre>Mystery</genre>
+        <publicationYear>1995</publicationYear>
+        <title>Distributed neutral Graphical User Interface</title>
+      </Book>
+      <Book>
+        <bookId>39c92cac-df07-4660-8e35-94e25b03e27c</bookId>
+        <earnings>211.11</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1865</publicationYear>
+        <title>Profound multimedia software</title>
+      </Book>
+      <Book>
+        <bookId>e694ec92-4dff-4678-97f5-abee22fe86e4</bookId>
+        <earnings>775.94</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1885</publicationYear>
+        <title>User-friendly 5thgeneration toolset</title>
+      </Book>
+    </books>
+  </Author>
+  <Author>
+    <authorId>650586da-7e65-4356-b6aa-15897d673034</authorId>
+    <name>Anthony White</name>
+    <earnings>3353.77</earnings>
+    <books>
+      <Book>
+        <bookId>39c92cac-df07-4660-8e35-94e25b03e27c</bookId>
+        <earnings>211.11</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1865</publicationYear>
+        <title>Profound multimedia software</title>
+      </Book>
+      <Book>
+        <bookId>bd744a55-c99c-4044-b337-523ff7a20b79</bookId>
+        <earnings>422.55</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1813</publicationYear>
+        <title>Centralized zero administration focus group</title>
+      </Book>
+      <Book>
+        <bookId>97afa2a6-4b3e-4fd4-b581-68fdc4f02bb3</bookId>
+        <earnings>349.77</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>2001</publicationYear>
+        <title>Multi-tiered homogeneous instruction set</title>
+      </Book>
+      <Book>
+        <bookId>01fe3f0a-9a47-4262-a4b3-b0c9ca37d85f</bookId>
+        <earnings>746.57</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1827</publicationYear>
+        <title>Managed composite contingency</title>
+      </Book>
+      <Book>
+        <bookId>3f134bd1-1f8b-4114-86d9-d2185ea94f0e</bookId>
+        <earnings>504</earnings>
+        <genre>Science Fiction</genre>
+        <publicationYear>1814</publicationYear>
+        <title>Mandatory composite Internet solution</title>
+      </Book>
+      <Book>
+        <bookId>e694ec92-4dff-4678-97f5-abee22fe86e4</bookId>
+        <earnings>775.94</earnings>
+        <genre>Fiction</genre>
+        <publicationYear>1885</publicationYear>
+        <title>User-friendly 5thgeneration toolset</title>
+      </Book>
+      <Book>
+        <bookId>d13090e1-1633-4b4b-a7a0-bc5caf2dba55</bookId>
+        <earnings>343.83</earnings>
+        <genre>Non-Fiction</genre>
+        <publicationYear>1974</publicationYear>
+        <title>Expanded executive system engine</title>
+      </Book>
+    </books>
+  </Author>
+</ArrayOfAuthor>
