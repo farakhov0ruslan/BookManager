@@ -16,3 +16,8 @@ ConsoleBookManager - это консольное приложение на C# д
 -![XML](data.xml)
 
 -![JSON](data.json)
+
+
+<p align="center">
+  <img src="ex.jpg" alt="Пример работы консольного приложения">
+</p>
