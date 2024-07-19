@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Checker\Checker.csproj" />
+      <ProjectReference Include="..\CHWLibrary\CHWLibrary.csproj" />
+      <ProjectReference Include="..\DataProcessing\DataProcessing.csproj" />
+      <ProjectReference Include="..\InOutProcessing\InOutProcessing.csproj" />
+      <ProjectReference Include="..\SaveProcessing\SaveProcessing.csproj" />
+    </ItemGroup>
+
+</Project>

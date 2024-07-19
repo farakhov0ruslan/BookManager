@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Processing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Processing.dll": {}
+        }
+      },
+      "CHWLibrary/1.0.0": {
+        "runtime": {
+          "CHWLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Processing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CHWLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

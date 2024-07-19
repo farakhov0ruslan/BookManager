@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataProcessing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0",
+          "SaveProcessing": "1.0.0"
+        },
+        "runtime": {
+          "DataProcessing.dll": {}
+        }
+      },
+      "CHWLibrary/1.0.0": {
+        "dependencies": {
+          "CustomExceptions": "1.0.0"
+        },
+        "runtime": {
+          "CHWLibrary.dll": {}
+        }
+      },
+      "CustomExceptions/1.0.0": {
+        "runtime": {
+          "CustomExceptions.dll": {}
+        }
+      },
+      "SaveProcessing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SaveProcessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CHWLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaveProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

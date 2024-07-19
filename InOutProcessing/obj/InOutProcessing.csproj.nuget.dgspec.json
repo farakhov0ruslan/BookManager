@@ -1,0 +1,295 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ruslanfarahov/RiderProjects/BookManager/InOutProcessing/InOutProcessing.csproj": {}
+  },
+  "projects": {
+    "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj",
+        "projectName": "CHWLibrary",
+        "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj",
+        "packagesPath": "/Users/ruslanfarahov/.nuget/packages/",
+        "outputPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslanfarahov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ruslanfarahov/RiderProjects/BookManager/CustomExceptions/CustomExceptions.csproj": {
+                "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CustomExceptions/CustomExceptions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruslanfarahov/RiderProjects/BookManager/CustomExceptions/CustomExceptions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslanfarahov/RiderProjects/BookManager/CustomExceptions/CustomExceptions.csproj",
+        "projectName": "CustomExceptions",
+        "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CustomExceptions/CustomExceptions.csproj",
+        "packagesPath": "/Users/ruslanfarahov/.nuget/packages/",
+        "outputPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CustomExceptions/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslanfarahov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruslanfarahov/RiderProjects/BookManager/DataProcessing/DataProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslanfarahov/RiderProjects/BookManager/DataProcessing/DataProcessing.csproj",
+        "projectName": "DataProcessing",
+        "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/DataProcessing/DataProcessing.csproj",
+        "packagesPath": "/Users/ruslanfarahov/.nuget/packages/",
+        "outputPath": "/Users/ruslanfarahov/RiderProjects/BookManager/DataProcessing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslanfarahov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj": {
+                "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj"
+              },
+              "/Users/ruslanfarahov/RiderProjects/BookManager/SaveProcessing/SaveProcessing.csproj": {
+                "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/SaveProcessing/SaveProcessing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruslanfarahov/RiderProjects/BookManager/InOutProcessing/InOutProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslanfarahov/RiderProjects/BookManager/InOutProcessing/InOutProcessing.csproj",
+        "projectName": "InOutProcessing",
+        "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/InOutProcessing/InOutProcessing.csproj",
+        "packagesPath": "/Users/ruslanfarahov/.nuget/packages/",
+        "outputPath": "/Users/ruslanfarahov/RiderProjects/BookManager/InOutProcessing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslanfarahov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj": {
+                "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj"
+              },
+              "/Users/ruslanfarahov/RiderProjects/BookManager/DataProcessing/DataProcessing.csproj": {
+                "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/DataProcessing/DataProcessing.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ruslanfarahov/RiderProjects/BookManager/SaveProcessing/SaveProcessing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ruslanfarahov/RiderProjects/BookManager/SaveProcessing/SaveProcessing.csproj",
+        "projectName": "SaveProcessing",
+        "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/SaveProcessing/SaveProcessing.csproj",
+        "packagesPath": "/Users/ruslanfarahov/.nuget/packages/",
+        "outputPath": "/Users/ruslanfarahov/RiderProjects/BookManager/SaveProcessing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ruslanfarahov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj": {
+                "projectPath": "/Users/ruslanfarahov/RiderProjects/BookManager/CHWLibrary/CHWLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

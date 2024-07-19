@@ -1,0 +1,104 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MenuProcessing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0",
+          "Checker": "1.0.0",
+          "DataProcessing": "1.0.0",
+          "InOutProcessing": "1.0.0",
+          "SaveProcessing": "1.0.0"
+        },
+        "runtime": {
+          "MenuProcessing.dll": {}
+        }
+      },
+      "Checker/1.0.0": {
+        "runtime": {
+          "Checker.dll": {}
+        }
+      },
+      "CHWLibrary/1.0.0": {
+        "dependencies": {
+          "CustomExceptions": "1.0.0"
+        },
+        "runtime": {
+          "CHWLibrary.dll": {}
+        }
+      },
+      "CustomExceptions/1.0.0": {
+        "runtime": {
+          "CustomExceptions.dll": {}
+        }
+      },
+      "DataProcessing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0",
+          "SaveProcessing": "1.0.0"
+        },
+        "runtime": {
+          "DataProcessing.dll": {}
+        }
+      },
+      "InOutProcessing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0",
+          "DataProcessing": "1.0.0"
+        },
+        "runtime": {
+          "InOutProcessing.dll": {}
+        }
+      },
+      "SaveProcessing/1.0.0": {
+        "dependencies": {
+          "CHWLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SaveProcessing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MenuProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CHWLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomExceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InOutProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaveProcessing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

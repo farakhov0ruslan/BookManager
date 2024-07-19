@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+        <RootNamespace>_12_Farahov_CHW_3_2</RootNamespace>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\InOutProcessing\InOutProcessing.csproj" />
+      <ProjectReference Include="..\MenuProcessing\MenuProcessing.csproj" />
+    </ItemGroup>
+
+</Project>

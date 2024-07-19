@@ -1,0 +1,15 @@
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/bin/Debug/net6.0/Processing.deps.json
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/bin/Debug/net6.0/Processing.dll
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/bin/Debug/net6.0/Processing.pdb
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.csproj.AssemblyReference.cache
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.AssemblyInfoInputs.cache
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.AssemblyInfo.cs
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.csproj.CoreCompileInputs.cache
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.dll
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/refint/Processing.dll
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.pdb
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/ref/Processing.dll
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/bin/Debug/net6.0/CHWLibrary.dll
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/bin/Debug/net6.0/CHWLibrary.pdb
+/Users/ruslanfarahov/RiderProjects/12_Farahov_CHW_3_2/Processing/obj/Debug/net6.0/Processing.csproj.CopyComplete
